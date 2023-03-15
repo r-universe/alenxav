@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bWGR",
+    "oncran": true
+  },
+  {
+    "package": "mas",
+    "oncran": true
+  },
+  {
+    "package": "NAM",
+    "oncran": true
+  },
+  {
+    "package": "SoyNAM",
+    "oncran": true
+  }
+]
