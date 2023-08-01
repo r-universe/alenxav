@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bWGR"]
-	path = bWGR
-	url = https://github.com/alenxav/bwgr
-[submodule "mas"]
-	path = mas
-	url = https://github.com/alenxav/mas
 [submodule "NAM"]
 	path = NAM
 	url = https://github.com/alenxav/nam
 [submodule "SoyNAM"]
 	path = SoyNAM
 	url = https://github.com/alenxav/soynam
+[submodule "bWGR"]
+	path = bWGR
+	url = https://github.com/alenxav/bwgr
+[submodule "mas"]
+	path = mas
+	url = https://github.com/alenxav/mas
