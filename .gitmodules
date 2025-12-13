@@ -14,3 +14,6 @@
 [submodule "mas"]
 	path = mas
 	url = https://github.com/alenxav/mas
+[submodule "pegs"]
+	path = pegs
+	url = https://github.com/cran/pegs
